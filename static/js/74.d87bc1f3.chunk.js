@@ -1,2 +1,0 @@
-(this["webpackJsonp@coreui/coreui-pro-react-admin-template"]=this["webpackJsonp@coreui/coreui-pro-react-admin-template"]||[]).push([[74],{1195:function(e,t,a){"use strict";a.r(t);var c=a(1),n=a.n(c),r=a(735),i=a.n(r),s=a(19);t.default=Object(s.i)((function(){return n.a.createElement("div",{className:"h-screen d-flex w-100 align-items-center d-flex justify-content-center"},n.a.createElement("img",{className:"w-25",src:i.a,alt:"Sayurbox-icon"}))}))}}]);
-//# sourceMappingURL=74.d87bc1f3.chunk.js.map
