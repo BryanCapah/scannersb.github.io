@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,QACI,oBAAsB,CAD1B,kBACI,WAAY,CACf,gBAGG,2BAA6B,CAC7B,4BAA8B","file":"47.0fb32a19.chunk.css","sourcesContent":[".wec-title-height{\r\n    height: 50px;\r\n}\r\n\r\n.wec-minus-mx-3{\r\n    margin-left: -3rem !important;\r\n    margin-right: -3rem !important;\r\n}"]}
