@@ -1,4 +1,4 @@
 config = {
-    REACT_APP_LOGIN: "https://wms-web.sayurbox.tech/",
-    REACT_APP_API_URL: "https://inventory-management-oss-prd.apps.aws.sayurbox.io/"
+    REACT_APP_LOGIN: "https://dev-wms-web.sayurbox.tech/",
+    REACT_APP_API_URL: "http://3.131.156.219:8080/"
 }
